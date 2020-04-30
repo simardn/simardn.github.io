@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Nicholas Simard
+
+The best way to describe me is as an electrical and biomedical engineer with a hockey problem.
 
 You can use the [editor on GitHub](https://github.com/simardn/simardn.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
